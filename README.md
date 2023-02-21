@@ -1,6 +1,6 @@
 # LoanDefaultPrediction
 
-### Source of Dataset: https://www.kaggle.com/datasets/yasserh/loan-default-dataset Implementation Strategy and algorithms
+### Source of Dataset: https://www.kaggle.com/datasets/yasserh/loan-default-dataset
 
 ## Implementation Strategy and algorithms Used:
 1. RandomForestClassifier
