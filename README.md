@@ -15,8 +15,3 @@
 2. Precision 
 3. Recall
 4. F1
-
-## Team Members Names:
-1. Shanky Tyagi
-2. Atharva Parte
-3. Mahesh Prasad Pisharody
